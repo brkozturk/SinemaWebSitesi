@@ -1,0 +1,1 @@
+"sinema" isimli veritabaný oluþturup, içerisine import edilmeli
